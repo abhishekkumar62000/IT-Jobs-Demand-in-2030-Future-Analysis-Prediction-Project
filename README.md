@@ -1,0 +1,2 @@
+# IT-Jobs-Demand-in-2030-Future-Analysis-Prediction-Project
+UnGuided Project :---IT Jobs Demand In 2030  Full Analysis &amp; Prediction Using EDA &amp; Feature Engineering Machine learning, this Project is a future Prediction Where I Analyzed the Big Dataset 400 mb where i Clean all the Null Value and So many Duplicate Value Present in this Dataset. I Perform EDA Technique and Some Feature Engineering, and ML Model
